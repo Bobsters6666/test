@@ -1,3 +1,6 @@
+li {
+  list-style-type: disc;
+}
 body {
-  padding: 0;
+  margin: 0;
 }
